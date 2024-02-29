@@ -1,13 +1,3 @@
-#### Setup for Completed project
-If you are planning to try out my <a href="https://github.com/WesCSK/SwiftUI-Google-Sign-In-with-Firebase/tree/main/Completed/FirebaseGoogleSigin">completed project</a>, do follow these additional steps before running it.
-1. Create a Firebase new project and add the GoogleService-Info to the root of your Project.
-2. Change the custom URL schemes in the Xcode project. Select your project file > at targets ensure that your project is selected > Info tab > Open up URL Types change the URL Schemes. 
-
-- To get the URL Schemes. Open up GoogleService-Info. Find the REVERSED_CLIENT_ID key and copy to the URL schemes.
-
-3. At Firebase console, go to Authentication > click get started > At additional provider > Click Google > Click enable > Add the information required. Then Save.
-4. Then you can run the project to try out the google sign in method.
-
 ## Step 1: Project Configuration
 1. Create a Firebase new project and add the GoogleService-Info to the root of your Project.
 
